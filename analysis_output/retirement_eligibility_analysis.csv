@@ -1,0 +1,32 @@
+DPHA Branch,retirement_eligibility_status,positions,avg_age,avg_years_of_service,actual_payroll,percent_of_occupied_headcount
+ -,Currently eligible,28,61.5,36.14,3618260,8.51
+ -,Longer-term workforce,4,44.0,20.75,428584,1.22
+ -,Not applicable - vacant,7,0.0,0.0,0,
+Branch A,Currently eligible,1,57.0,37.0,163845,0.3
+Branch A,Longer-term workforce,44,43.55,22.48,4238540,13.37
+Branch A,Near-term eligible / high risk,5,56.0,35.0,696465,1.52
+Branch A,Not applicable - vacant,5,0.0,0.0,0,
+Branch B,Currently eligible,12,60.33,35.33,1414913,3.65
+Branch B,Longer-term workforce,18,44.61,20.44,1641192,5.47
+Branch B,Medium-term eligibility watch,11,53.0,28.82,1090408,3.34
+Branch B,Near-term eligible / high risk,3,56.0,30.67,297384,0.91
+Branch B,Not applicable - vacant,10,0.0,0.0,0,
+Branch C,Currently eligible,15,63.07,37.47,1942603,4.56
+Branch C,Longer-term workforce,16,42.69,18.31,1466788,4.86
+Branch C,Medium-term eligibility watch,10,52.3,27.1,991280,3.04
+Branch C,Near-term eligible / high risk,9,56.0,31.56,892152,2.74
+Branch C,Not applicable - vacant,4,0.0,0.0,0,
+Branch D,Currently eligible,24,61.92,36.5,3019865,7.29
+Branch D,Longer-term workforce,4,33.25,9.5,301104,1.22
+Branch D,Medium-term eligibility watch,11,52.0,27.36,1090408,3.34
+Branch D,Near-term eligible / high risk,10,55.2,31.0,991280,3.04
+Branch D,Not applicable - vacant,5,0.0,0.0,0,
+Branch E,Currently eligible,29,60.62,35.66,3601047,8.81
+Branch E,Longer-term workforce,5,40.4,16.6,406088,1.52
+Branch E,Medium-term eligibility watch,9,51.22,26.33,892152,2.74
+Branch E,Near-term eligible / high risk,11,55.0,30.91,1090408,3.34
+Branch E,Not applicable - vacant,1,0.0,0.0,0,
+Branch F,Currently eligible,37,63.46,36.7,4258462,11.25
+Branch F,Longer-term workforce,3,45.67,18.0,248109,0.91
+Branch F,Near-term eligible / high risk,10,57.0,28.4,991280,3.04
+Branch F,Not applicable - vacant,5,0.0,0.0,0,

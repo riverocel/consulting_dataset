@@ -1,0 +1,16 @@
+population,metric,count,mean,median,std_dev,min,p25,p75,max
+All authorized positions,Age,366,48.93,55.0,18.4,0.0,46.0,61.0,71.0
+All authorized positions,Years of Service,366,26.84,30.0,11.66,0.0,22.0,35.0,44.0
+All authorized positions,Training Hours (Prior Year),366,48.02,51.2,26.88,0.0,24.0,60.8,140.0
+All authorized positions,Average Remote Workdays Per Month,366,12.34,13.0,6.48,0.0,8.0,20.0,25.0
+All authorized positions,annual_salary,366,108238.19,99128.0,19702.32,68355.0,99128.0,117875.0,183500.0
+Occupied positions only,Age,329,54.43,56.0,8.72,22.0,48.0,61.0,71.0
+Occupied positions only,Years of Service,329,29.85,31.0,7.81,2.0,25.0,36.0,44.0
+Occupied positions only,Training Hours (Prior Year),329,53.42,54.4,22.68,9.0,46.4,64.0,140.0
+Occupied positions only,Average Remote Workdays Per Month,329,13.73,13.0,5.26,2.0,11.0,20.0,25.0
+Occupied positions only,annual_salary,329,108731.36,99128.0,19481.23,68355.0,99128.0,117875.0,183500.0
+Vacant positions only,Age,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vacant positions only,Years of Service,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vacant positions only,Training Hours (Prior Year),37,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vacant positions only,Average Remote Workdays Per Month,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vacant positions only,annual_salary,37,103852.95,99128.0,21351.98,68355.0,99128.0,117875.0,163845.0

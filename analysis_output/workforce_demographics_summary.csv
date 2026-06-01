@@ -1,0 +1,46 @@
+segment_type,segment_value,occupied_headcount,avg_age,avg_years_of_service,avg_training_hours,avg_remote_workdays,total_actual_payroll,headcount_percent
+age_band,Under 30,4,25.5,5.25,132.5,14.75,273420,1.22
+age_band,30-39,14,35.64,11.5,75.89,13.93,1053864,4.26
+age_band,40-49,76,45.38,22.71,72.07,16.28,7403121,23.1
+age_band,50-54,41,52.17,27.46,58.97,14.88,4064248,12.46
+age_band,55-59,84,56.76,31.86,47.31,13.79,9037983,25.53
+age_band,60-64,90,62.34,36.53,39.12,11.91,11049135,27.36
+age_band,65+,20,67.05,41.2,29.57,9.25,2890846,6.08
+service_band,0-4,1,22.0,2.0,140.0,16.0,68355,0.3
+service_band,5-9,6,29.5,7.67,106.87,12.67,430893,1.82
+service_band,10-14,10,36.3,11.9,73.76,14.2,752760,3.04
+service_band,15-19,13,42.54,17.54,59.25,16.62,1137899,3.95
+service_band,20-24,46,45.2,22.24,72.73,16.13,4556194,13.98
+service_band,25-29,67,51.67,27.45,58.21,15.19,6641576,20.36
+service_band,30+,186,60.5,35.3,43.22,12.4,22184940,56.53
+GS Paygrade,GS-09,4,25.5,5.25,132.5,14.75,273420,1.22
+GS Paygrade,GS-10,16,36.19,12.06,75.5,14.69,1204416,4.86
+GS Paygrade,GS-11,7,43.86,18.29,48.0,15.0,578921,2.13
+GS Paygrade,GS-12,175,51.42,27.3,58.18,15.95,17379472,53.19
+GS Paygrade,GS-13,80,61.41,35.67,40.98,12.25,9482002,24.32
+GS Paygrade,GS-14,38,63.92,39.18,43.16,7.5,5350488,11.55
+GS Paygrade,GS-15,9,64.44,39.89,44.53,6.78,1503898,2.74
+DPHA Branch, -,32,59.31,34.22,41.96,14.03,4046844,9.73
+DPHA Branch,Branch A,50,45.06,24.02,85.06,14.02,5098850,15.2
+DPHA Branch,Branch B,44,51.77,27.3,60.11,20.0,4443897,13.37
+DPHA Branch,Branch C,50,53.12,28.2,56.42,13.26,5292823,15.2
+DPHA Branch,Branch D,49,55.98,31.12,55.97,13.12,5402657,14.89
+DPHA Branch,Branch E,54,56.04,31.37,54.64,8.61,5989695,16.41
+DPHA Branch,Branch F,50,61.1,33.92,16.4,14.3,5497851,15.2
+Position Title,Communications Analyst,2,63.0,36.5,44.8,12.5,235750,0.61
+Position Title,Communications Team Lead,1,66.0,40.0,43.2,3.0,139293,0.3
+Position Title,Deputy Director,1,63.0,35.0,24.0,8.0,163845,0.3
+Position Title,Deputy Director for Program Management & Operations,1,67.0,41.0,41.6,2.0,154208,0.3
+Position Title,Director,1,62.0,40.0,46.4,6.0,183500,0.3
+Position Title,Informatics Specialist,5,50.6,26.4,43.44,20.0,568673,1.52
+Position Title,Informatics Team Lead,1,66.0,42.0,9.0,20.0,139293,0.3
+Position Title,Policy & Partnerships Specialist,7,59.86,35.14,50.74,15.0,768884,2.13
+Position Title,Program Management & Operations Analyst,7,61.29,35.71,49.14,10.71,883564,2.13
+Position Title,Program Management & Operations Team Lead,1,66.0,42.0,46.4,7.0,183120,0.3
+Position Title,Public Health Branch Chief,5,64.4,40.2,48.48,7.6,819225,1.52
+Position Title,Public Health Junior Analyst,87,49.51,25.31,59.01,16.0,8004437,26.44
+Position Title,Public Health Senior Analyst,172,53.93,29.24,54.52,13.99,18268571,52.28
+Position Title,Public Health Team Lead,33,63.82,39.21,44.81,7.0,4633540,10.03
+Position Title,Strategy & Innovation Analyst,3,58.0,32.0,25.0,20.0,388293,0.91
+Position Title,Strategy & Innovation Team Lead,1,63.0,36.0,15.0,20.0,139293,0.3
+Position Title,Training & Workforce Development Team Lead,1,44.0,22.0,36.0,18.0,99128,0.3

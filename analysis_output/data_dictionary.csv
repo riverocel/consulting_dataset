@@ -1,0 +1,19 @@
+field_name,source_or_derived,data_type,description,non_null_count,unique_values,sample_values,missing_or_structural_note
+Position / Job ID#,Source,object,Unique identifier for each authorized position; one duplicate position ID appears in source.,366,365,P000000001; P000000002; P000000003; P000000004; P000000005,
+Employee ID#,Source,object,Employee identifier for occupied positions; '-' indicates vacant position.,366,328,ID000077294; ID000024332; ID000075633;  -; ID000134110,'-' is structural not-applicable for vacant or central-office records
+Position Title,Source,object,Role or job title assigned to the position.,366,18,Director; Deputy Director; Deputy Director for Program Management & Operations; Communications Team Lead; Communications Analyst,
+Office,Source,object,Office or organizational unit owning the position.,366,16,Office of the Director; Office of the Deputy Director; Office of the Deputy Director for Program Management & Operations; Office of Communications; Office of Informatics,
+DPHA Branch,Source,object,Branch within Public Health Advancement; '-' indicates central office / not branch-assigned.,366,7, -; Branch A; Branch B; Branch C; Branch D,'-' is structural not-applicable for vacant or central-office records
+DPHA Team,Source,object,Team within a branch; '-' indicates central office / not team-assigned.,366,43, -; Branch A; Branch B; Branch C; Branch D,'-' is structural not-applicable for vacant or central-office records
+GS Paygrade,Source,object,General Schedule grade for the position.,366,7,GS-15; GS-14; GS-13; GS-12; GS-11,
+GS Paygrade Step,Source,int64,General Schedule step for the position.,366,8,10; 5; 3; 6; 9,
+Occupied or Vacant Position,Source,object,Position status in the workforce roster.,366,2,Occupied; Vacant,
+Age,Source,int64,Employee age; zero for vacant positions.,366,39,62; 63; 67; 66; 0,Zeros in employee-specific measures are structural for vacant positions
+Years of Service,Source,int64,Employee years of service; zero for vacant positions.,366,38,40; 35; 41; 0; 37,Zeros in employee-specific measures are structural for vacant positions
+Training Hours (Prior Year),Source,float64,Prior-year training hours; zero for vacant positions.,366,64,46.4; 24.0; 41.6; 43.2; 0.0,Zeros in employee-specific measures are structural for vacant positions
+Average Remote Workdays Per Month,Source,int64,Average monthly remote workdays; zero for vacant positions.,366,19,6; 8; 2; 3; 0,Zeros in employee-specific measures are structural for vacant positions
+annual_salary,Derived,int64,Derived annual salary from GS grade and step using GS_Payscale tab.,366,21,183500; 163845; 154208; 139293; 117875,
+actual_payroll,Derived,int64,Derived payroll cost for occupied positions only.,366,21,183500; 163845; 154208; 139293; 0,
+authorized_payroll,Derived,int64,"Derived annual salary for all authorized positions, occupied and vacant.",366,21,183500; 163845; 154208; 139293; 117875,
+vacant_authorized_payroll,Derived,int64,Derived salary value of currently vacant positions.,366,10,0; 117875; 139293; 113706; 99128,
+retirement_eligibility_status,Derived,object,Derived retirement risk band using age and years-of-service proxy rules.,366,5,Currently eligible; Not applicable - vacant; Longer-term workforce; Near-term eligible / high risk; Medium-term eligibility watch,

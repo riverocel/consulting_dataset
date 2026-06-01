@@ -1,0 +1,51 @@
+segment_type,segment_value,authorized_positions,occupied_positions,vacant_positions,authorized_payroll,actual_payroll,vacant_authorized_payroll,avg_authorized_salary,vacancy_rate
+Office,Branch A,1,1,0,163845,163845,0,163845.0,0.0
+Office,Branch B,1,1,0,163845,163845,0,163845.0,0.0
+Office,Branch C,1,1,0,163845,163845,0,163845.0,0.0
+Office,Branch D,1,1,0,163845,163845,0,163845.0,0.0
+Office,Branch E,1,1,0,163845,163845,0,163845.0,0.0
+Office,Branch F,1,0,1,163845,0,163845,163845.0,100.0
+Office,Office of Communications,4,3,1,492918,375043,117875,123229.5,25.0
+Office,Office of Informatics,8,6,2,943716,707966,235750,117964.5,25.0
+Office,Office of Policy & Partnerships,10,7,3,1121011,768884,352127,112101.1,30.0
+Office,Office of Program Management & Operations,8,8,0,1066684,1066684,0,133335.5,0.0
+Office,Office of Strategy & Innovation,5,4,1,615052,527586,87466,123010.4,20.0
+Office,Office of Training & Workforce Development,1,1,0,99128,99128,0,99128.0,0.0
+Office,Office of the Deputy Director,1,1,0,163845,163845,0,163845.0,0.0
+Office,Office of the Deputy Director for Program Management & Operations,1,1,0,154208,154208,0,154208.0,0.0
+Office,Office of the Director,1,1,0,183500,183500,0,183500.0,0.0
+Office,Public Health Advancement Branch,321,292,29,33792044,30906548,2885496,105271.17,9.03
+DPHA Branch, -,39,32,7,4840062,4046844,793218,124104.15,17.95
+DPHA Branch,Branch A,55,50,5,5573109,5098850,474259,101329.25,9.09
+DPHA Branch,Branch B,54,44,10,5515507,4443897,1071610,102139.02,18.52
+DPHA Branch,Branch C,54,50,4,5665483,5292823,372660,104916.35,7.41
+DPHA Branch,Branch D,54,49,5,5888087,5402657,485430,109038.65,9.26
+DPHA Branch,Branch E,55,54,1,6088823,5989695,99128,110705.87,1.82
+DPHA Branch,Branch F,55,50,5,6044105,5497851,546254,109892.82,9.09
+GS Paygrade,GS-09,6,4,2,410130,273420,136710,68355.0,33.33
+GS Paygrade,GS-10,19,16,3,1430244,1204416,225828,75276.0,15.79
+GS Paygrade,GS-11,9,7,2,744327,578921,165406,82703.0,22.22
+GS Paygrade,GS-12,194,175,19,19265820,17379472,1886348,99308.35,9.79
+GS Paygrade,GS-13,86,80,6,10189252,9482002,707250,118479.67,6.98
+GS Paygrade,GS-14,42,38,4,5907660,5350488,557172,140658.57,9.52
+GS Paygrade,GS-15,10,9,1,1667743,1503898,163845,166774.3,10.0
+Position Title,Communications Analyst,3,2,1,353625,235750,117875,117875.0,33.33
+Position Title,Communications Team Lead,1,1,0,139293,139293,0,139293.0,0.0
+Position Title,Deputy Director,1,1,0,163845,163845,0,163845.0,0.0
+Position Title,Deputy Director for Program Management & Operations,1,1,0,154208,154208,0,154208.0,0.0
+Position Title,Director,1,1,0,183500,183500,0,183500.0,0.0
+Position Title,Informatics Specialist,7,5,2,804423,568673,235750,114917.57,28.57
+Position Title,Informatics Team Lead,1,1,0,139293,139293,0,139293.0,0.0
+Position Title,Policy & Partnerships Specialist,9,7,2,981718,768884,212834,109079.78,22.22
+Position Title,Policy & Partnerships Team Lead,1,0,1,139293,0,139293,139293.0,100.0
+Position Title,Program Management & Operations Analyst,7,7,0,883564,883564,0,126223.43,0.0
+Position Title,Program Management & Operations Team Lead,1,1,0,183120,183120,0,183120.0,0.0
+Position Title,Public Health Branch Chief,6,5,1,983070,819225,163845,163845.0,16.67
+Position Title,Public Health Junior Analyst,98,87,11,8928893,8004437,924456,91111.15,11.22
+Position Title,Public Health Senior Analyst,187,172,15,19811732,18268571,1543161,105945.09,8.02
+Position Title,Public Health Team Lead,36,33,3,5051419,4633540,417879,140317.19,8.33
+Position Title,Strategy & Innovation Analyst,4,3,1,475759,388293,87466,118939.75,25.0
+Position Title,Strategy & Innovation Team Lead,1,1,0,139293,139293,0,139293.0,0.0
+Position Title,Training & Workforce Development Team Lead,1,1,0,99128,99128,0,99128.0,0.0
+Occupied or Vacant Position,Occupied,329,329,0,35772617,35772617,0,108731.36,0.0
+Occupied or Vacant Position,Vacant,37,0,37,3842559,0,3842559,103852.95,100.0

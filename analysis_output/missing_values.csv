@@ -1,0 +1,14 @@
+field_name,raw_null_count,blank_count,placeholder_dash_count,structural_not_applicable_count,actionable_missing_count,actionable_missing_percent,quality_note
+Position / Job ID#,0,0,0,0,0,0.0,No actionable missingness after structural values are separated
+Employee ID#,0,0,38,37,1,0.27,Investigate source completeness
+Position Title,0,0,0,0,0,0.0,No actionable missingness after structural values are separated
+Office,0,0,0,0,0,0.0,No actionable missingness after structural values are separated
+DPHA Branch,0,0,39,39,0,0.0,No actionable missingness after structural values are separated
+DPHA Team,0,0,39,39,0,0.0,No actionable missingness after structural values are separated
+GS Paygrade,0,0,0,0,0,0.0,No actionable missingness after structural values are separated
+GS Paygrade Step,0,0,0,0,0,0.0,No actionable missingness after structural values are separated
+Occupied or Vacant Position,0,0,0,0,0,0.0,No actionable missingness after structural values are separated
+Age,0,0,0,37,0,0.0,No actionable missingness after structural values are separated
+Years of Service,0,0,0,37,0,0.0,No actionable missingness after structural values are separated
+Training Hours (Prior Year),0,0,0,37,0,0.0,No actionable missingness after structural values are separated
+Average Remote Workdays Per Month,0,0,0,37,0,0.0,No actionable missingness after structural values are separated
