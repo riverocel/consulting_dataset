@@ -1,0 +1,11 @@
+appendix_item,output_file,why_it_belongs_in_appendix,executive_question_it_answers
+Data dictionary,data_dictionary.csv,Defines source and derived fields without consuming main-deck space.,What data fields were used and how should they be interpreted?
+Missing value analysis,missing_values.csv,Supports data-quality confidence and flags the one actionable Employee ID issue.,Can leadership trust the analysis inputs?
+Numeric summary statistics,summary_statistics.csv,Provides detailed distributions behind headline averages.,"What are the underlying age, service, training, remote-work, and salary distributions?"
+Categorical summary statistics,summary_statistics_categorical.csv,"Shows the full composition by office, branch, team, title, grade, and position status.",How is the workforce distributed across organizational and role categories?
+Vacancy rate by branch chart,chart_vacancy_rate_by_branch.png,"Useful branch detail, but not required in the main storyline once the risk matrix is shown.",Which branches have the highest vacancy rates?
+Vacancy rate by GS grade chart,chart_vacancy_rate_by_gs_grade.png,Shows grade-level vacancy pressure as backup for staffing prioritization.,Which grades have the greatest vacancy pressure?
+Authorized positions by branch chart,chart_authorized_positions_by_branch.png,Provides scale context for branch comparisons without crowding the main deck.,How large is each branch in authorized position terms?
+Payroll detail,payroll_summary.csv,Contains segment-level payroll detail supporting financial exposure claims.,"Where is payroll concentrated by office, branch, grade, title, and position status?"
+Retirement eligibility detail,retirement_eligibility_analysis.csv,Documents branch-level retirement categories and proxy assumptions.,Where is retirement exposure concentrated and how large is it?
+Assumptions and limitations,assumptions_and_limitations.csv,Prevents overstatement and clarifies where estimates require validation.,What should leadership know before using these findings for decisions?

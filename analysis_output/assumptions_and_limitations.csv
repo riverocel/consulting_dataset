@@ -1,0 +1,6 @@
+assumption_or_limitation,implication
+Retirement eligibility is estimated from age and years of service only.,"Exact federal retirement eligibility would require date of birth, retirement system, and service-credit details."
+Payroll values are derived from the GS_Payscale tab by grade and step.,"Figures exclude locality, premium pay, benefits, vacancies beyond authorized salary, and non-salary operating costs."
+"Vacant positions have zero employee-specific age, service, training, and remote-work fields.",Those zeros are treated as structural not-applicable values rather than true employee metrics.
+Strategic scenarios are qualitative because no transformation_scenarios.csv was available before this plan.,Financial savings and FTE movement should be modeled before decisions are finalized.
+"Branch priority scores are normalized proxies built from vacancy, retirement, and payroll exposure.","They are appropriate for prioritization discussions, not as a sole basis for personnel actions."
